@@ -23,6 +23,6 @@ A PPT about [dm-cache and bcache principle](https://www.lanl.gov/projects/nation
 Reference to the [bcache steup tuning](http://www.tech-g.com/2017/08/10/bcache-how-to-setup/)
 
 # Contact
-Email: [congweitao@hotmail.com](congweitao@hotmail.com)
-
+[congweitao@hotmail.com](congweitao@hotmail.com)
+[Linkedin](congweitao.github.io/About)
 
