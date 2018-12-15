@@ -1,13 +1,13 @@
-### Welcome to WEITAO'S BLOG 
+# Welcome to WEITAO'S BLOG 
 Journey to the Computing and Storage.
-# About Me
+## About Me
 2008 - 2012  Bachlor Degree of EE in East China Normal University
 
 2012 - 2015  Master Degree of EE in East China Normal University
 
 2015 - 2018  HPC Solution Engineer in Sugon (Beijing) Company
 
-### Day 1
+# Day 1
 Research on bcache accllerating Ceph：Usage and Tuning.
 
 [Ceph Performance Tuning Checklist](http://accelazh.github.io/ceph/Ceph-Performance-Tuning-Checklist)
@@ -20,7 +20,7 @@ A PPT about [dm-cache and bcache principle](https://www.lanl.gov/projects/nation
 
 Reference to the [bcache steup tuning](http://www.tech-g.com/2017/08/10/bcache-how-to-setup/)
 
-### Contact
+# Contact
 Email: [congweitao@hotmail.com](congweitao@hotmail.com)
 
 
