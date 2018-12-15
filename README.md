@@ -1,6 +1,11 @@
 ### Welcome to WEITAO'S BLOG 
 Journey to the Computing and Storage.
+# About Me
+2008 - 2012  Bachlor Degree of EE in East China Normal University
 
+2012 - 2015  Master Degree of EE in East China Normal University
+
+2015 - 2018  HPC Solution Engineer in Sugon (Beijing) Company
 
 ### Day 1
 Research on bcache accllerating Ceph：Usage and Tuning.
