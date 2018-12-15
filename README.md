@@ -24,5 +24,6 @@ Reference to the [bcache steup tuning](http://www.tech-g.com/2017/08/10/bcache-h
 
 # Contact
 [congweitao@hotmail.com](congweitao@hotmail.com)
-[Linkedin](congweitao.github.io/About)
+
+[Linkedin](https://congweitao.github.io/About)
 
