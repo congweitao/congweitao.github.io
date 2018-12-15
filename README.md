@@ -7,6 +7,8 @@ Journey to the Computing and Storage.
 
 2015 - 2018  HPC Solution Engineer in Sugon (Beijing) Company
 
+2018 - now  Senior Storage Solution Engineer in Huawei (Shenzhen)
+
 # Day 1
 Research on bcache accllerating Ceph：Usage and Tuning.
 
