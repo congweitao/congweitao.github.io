@@ -9,7 +9,7 @@ Journey to the Computing and Storage.
 
 2015.3 - 2018.7  HPC Solution Engineer at Dawning Information Cor., ie., Sugon, Beijing
 
-2018.10 - now    Senior Storage Solution Achitect at Huawei, Shenzhen
+2018.10 - now    Senior Storage Solution Architect at Huawei, Shenzhen
 
 # Day 1
 Research on bcache accllerating Ceph：Usage and Tuning.
