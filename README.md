@@ -40,8 +40,8 @@ Long time ago have I been thinking about building a personal blog to record my j
 
 (3) When I finished the master degree, I joined Sugon as a HPC Solution Engineer, responsible for the cluster design, delivery and performanc tuning. From then, I enterd the field of computing. Projects I have been involved includes,
 
-[Data Center Construction for the Five hundred meter Aperture Spherical Telescope - Major Contributor](https://en.wikipedia.org/wiki/Five_hundred_meter_Aperture_Spherical_Telescope)
+a. [Data Center Construction for the Five hundred meter Aperture Spherical Telescope - Major Contributor](https://en.wikipedia.org/wiki/Five_hundred_meter_Aperture_Spherical_Telescope)
 
-[Independently responsible for the Lustre Storage Solutions for HPC and AI]
+b. Independently responsible for the Lustre Storage Solutions for HPC and AI
 
 (4) Now I'm joining Huawei as a software engineer, responsible for the reference architecture of software-defined storage, including Lustre, Ceph(Red Hat Ceph,SuSe Enterprise Storage), IBM COS, Scality and other kinds of object storage.
