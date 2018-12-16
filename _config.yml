@@ -1,7 +1,6 @@
-title: 'Weitao' Blog'
-description: 'Journey to the Computing and Storage'
-url: 'https://congweitao.github.io'
-baseurl: ''
+title: "Weitao' Blog"
+description: "Journey to the Computing and Storage"
+url: "https://congweitao.github.io"
 
 nav:
   home: '/'
