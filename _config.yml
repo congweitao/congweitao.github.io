@@ -3,3 +3,8 @@ title: 'Weitao' Blog'
 description: 'the journey to the Computing and Storage'
 url: 'https://congweitao.github.io'
 baseurl: ''
+
+nav:
+  home: '/'
+  tags: '/tags.html'
+  
