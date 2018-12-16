@@ -28,7 +28,8 @@ A brief introduction about network latency [Introduction to Ethernet Latency](ht
 
 # Contact
 [congweitao@hotmail.com](congweitao@hotmail.com)
-[Weibo Blog](http://blog.sina.com.cn/u/1987990947)
+
+The day before I usually wrote blog on [Weibo Blog](http://blog.sina.com.cn/u/1987990947)
 
 # About the past work
 Long time ago have I been thinking about building a personal blog to record my journey in the area of computer science, finally it comes true.
