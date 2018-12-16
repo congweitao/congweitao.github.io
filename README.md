@@ -1,6 +1,5 @@
-# Welcome to WEITAO'S BLOG 
 Journey to the Computing and Storage.
-## About My Education
+# About My Education
 2008.9 - 2012.6  Bachelor Degree of EE at East China Normal University, Shanghai, China
 
 2012.6 - 2015.9  Master Degree of EE at East China Normal University, Shanghai, China
