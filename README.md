@@ -24,6 +24,8 @@ A PPT about [dm-cache and bcache principle](https://www.lanl.gov/projects/nation
 
 Reference to the [bcache steup tuning](http://www.tech-g.com/2017/08/10/bcache-how-to-setup/)
 
+A brief introduction about network latency [Introduction to Ethernet Latency](https://www.marvell.com/documents/rjx203ukari4r93gntem/)
+
 # Contact
 [congweitao@hotmail.com](congweitao@hotmail.com)
 
