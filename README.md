@@ -11,7 +11,7 @@ Journey to the Computing and Storage.
 
 2018.10 - now    Senior Storage Solution Architect at Huawei, Shenzhen
 
-# Day 1
+# Day 1 - 2018.12.16
 Research on bcache accllerating Ceph：Usage and Tuning.
 
 [Ceph Performance Tuning Checklist](http://accelazh.github.io/ceph/Ceph-Performance-Tuning-Checklist)
