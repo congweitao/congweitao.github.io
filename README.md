@@ -25,6 +25,9 @@ Reference to the [bcache steup tuning](http://www.tech-g.com/2017/08/10/bcache-h
 
 A brief introduction about network latency [Introduction to Ethernet Latency](https://www.marvell.com/documents/rjx203ukari4r93gntem/)
 
+# Day 2 - 2018.12.21
+[Research on Ceph Monitor Quorum and Configuration Guide](http://blog.sina.com.cn/s/blog_767e55a30102yyt4.html)
+
 # Contact
 [congweitao@hotmail.com](congweitao@hotmail.com)
 
