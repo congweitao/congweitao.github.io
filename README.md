@@ -28,6 +28,10 @@ A brief introduction about network latency [Introduction to Ethernet Latency](ht
 # Day 2 - 2018.12.21
 [Research on Ceph Monitor Quorum and Configuration Guide](http://blog.sina.com.cn/s/blog_767e55a30102yyt4.html)
 
+# Day 3 - 2019.09.20
+I begin to study data science because I believe that the value behind data is much more important than the infrastructures.
+I agree that data will be the most important assets of all enterprises in the future, and knowing data will be the critical task in the movement of Industry 4.0.
+
 # Contact
 [congweitao@hotmail.com](congweitao@hotmail.com)
 
