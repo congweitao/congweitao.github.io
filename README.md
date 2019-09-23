@@ -38,6 +38,8 @@ I agree that data will be the most important assets of all enterprises in the fu
 
 [Network Coding for Distributed Storage Systems](https://people.eecs.berkeley.edu/~wainwrig/Papers/DimEtAl10.pdf)
 
+[Kubernetes Scheduler](https://medium.com/@dominik.tornow/the-kubernetes-scheduler-cd429abac02f)
+
 # Contact
 [congweitao@hotmail.com](congweitao@hotmail.com)
 
