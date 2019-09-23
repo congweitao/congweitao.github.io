@@ -36,6 +36,8 @@ I agree that data will be the most important assets of all enterprises in the fu
 
 [Mathematical and Software of the Distributed Computing System Work Planning on the Multiagent Approach Basis](https://pdfs.semanticscholar.org/288d/b1dc3f40787e2e8c6c23a7ac2df36f353a10.pdf)
 
+[Network Coding for Distributed Storage Systems](https://people.eecs.berkeley.edu/~wainwrig/Papers/DimEtAl10.pdf)
+
 # Contact
 [congweitao@hotmail.com](congweitao@hotmail.com)
 
