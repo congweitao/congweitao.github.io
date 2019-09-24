@@ -40,6 +40,8 @@ I agree that data will be the most important assets of all enterprises in the fu
 
 [Kubernetes Scheduler](https://medium.com/@dominik.tornow/the-kubernetes-scheduler-cd429abac02f)
 
+[Data validation for machine learning](https://www.sysml.cc/doc/2019/167.pdf)
+
 # Contact
 [congweitao@hotmail.com](congweitao@hotmail.com)
 
