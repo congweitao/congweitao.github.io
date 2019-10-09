@@ -42,6 +42,9 @@ I agree that data will be the most important assets of all enterprises in the fu
 
 [Data validation for machine learning](https://www.sysml.cc/doc/2019/167.pdf)
 
+## Computer Architectures
+[Computer Architecture: A Quantitative Approach](https://www.cryptodionysus.com/pdfs/computer_arch.pdf)
+
 # Contact
 [congweitao@hotmail.com](congweitao@hotmail.com)
 
