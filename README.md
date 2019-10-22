@@ -48,8 +48,8 @@ I agree that data will be the most important assets of all enterprises in the fu
 [Computer Architecture: A Quantitative Approach](https://www.cryptodionysus.com/pdfs/computer_arch.pdf)
 
 ## Grah Theory
-[Dominator Tree(1)]:https://tanujkhattar.wordpress.com/2016/01/11/dominator-tree-of-a-directed-graph/    
-[Dominator Tree(2)]:https://www.cs.princeton.edu/courses/archive/fall03/cs528/handouts/a%20fast%20algorithm%20for%20finding.pdf
+[Dominator Tree(1)](https://tanujkhattar.wordpress.com/2016/01/11/dominator-tree-of-a-directed-graph/)    
+[Dominator Tree(2)](https://www.cs.princeton.edu/courses/archive/fall03/cs528/handouts/a%20fast%20algorithm%20for%20finding.pdf)    
 
 # Contact
 [congweitao@hotmail.com](congweitao@hotmail.com)
