@@ -44,10 +44,12 @@ I agree that data will be the most important assets of all enterprises in the fu
 
 [A distributed data caching system to accelerate deep learning](https://arxiv.org/pdf/1812.00669.pdf)
 
+[Gluster small file performance](https://github.com/gluster/glusterfs-specs/blob/master/done/GlusterFS%203.7/Small%20File%20Performance.md)
+
 ## Computer Architectures
 [Computer Architecture: A Quantitative Approach](https://www.cryptodionysus.com/pdfs/computer_arch.pdf)
 
-## Grah Theory
+## Graph Theory
 [Dominator Tree(1)](https://tanujkhattar.wordpress.com/2016/01/11/dominator-tree-of-a-directed-graph/)    
 [Dominator Tree(2)](https://www.cs.princeton.edu/courses/archive/fall03/cs528/handouts/a%20fast%20algorithm%20for%20finding.pdf)    
 
