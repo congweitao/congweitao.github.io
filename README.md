@@ -45,6 +45,8 @@ I agree that data will be the most important assets of all enterprises in the fu
 [A distributed data caching system to accelerate deep learning](https://arxiv.org/pdf/1812.00669.pdf)
 
 [Gluster small file performance](https://github.com/gluster/glusterfs-specs/blob/master/done/GlusterFS%203.7/Small%20File%20Performance.md)
+## High Performance Computing for Material Discovery
+[An introduction to HPC on AWS](https://d0.awsstatic.com/whitepapers/Intro_to_HPC_on_AWS.pdf)
 
 ## Computer Architectures
 [Computer Architecture: A Quantitative Approach](https://www.cryptodionysus.com/pdfs/computer_arch.pdf)
