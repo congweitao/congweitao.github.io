@@ -10,7 +10,7 @@ Journey to the Computing and Storage.
 
 2018.10 - now    Senior Storage Solution Architect at Huawei, Shenzhen
 
-# Day 1 - 2018.12.16
+# On Distributed Storage System
 Research on bcache accllerating Ceph：Usage and Tuning.
 
 [Ceph Performance Tuning Checklist](http://accelazh.github.io/ceph/Ceph-Performance-Tuning-Checklist)
@@ -25,10 +25,9 @@ Reference to the [bcache steup tuning](http://www.tech-g.com/2017/08/10/bcache-h
 
 A brief introduction about network latency [Introduction to Ethernet Latency](https://www.marvell.com/documents/rjx203ukari4r93gntem/)
 
-# Day 2 - 2018.12.21
 [Research on Ceph Monitor Quorum and Configuration Guide](http://blog.sina.com.cn/s/blog_767e55a30102yyt4.html)
 
-# Day 3 - 2019.09.20
+# On Data Science
 I begin to study data science because I believe that the value behind data is much more important than the infrastructures.
 I agree that data will be the most important assets of all enterprises in the future, and knowing data will be the critical task in the movement of Industry 4.0.
 
