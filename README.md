@@ -50,6 +50,7 @@ I agree that data will be the most important assets of all enterprises in the fu
 
 ## Computer Architectures
 [Computer Architecture: A Quantitative Approach](https://www.cryptodionysus.com/pdfs/computer_arch.pdf)
+[Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
 ## Graph Theory
 [Dominator Tree(1)](https://tanujkhattar.wordpress.com/2016/01/11/dominator-tree-of-a-directed-graph/)    
