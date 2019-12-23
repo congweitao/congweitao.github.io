@@ -50,6 +50,11 @@ I agree that data will be the most important assets of all enterprises in the fu
 ## Computer Architectures
 [Computer Architecture: A Quantitative Approach](https://www.cryptodionysus.com/pdfs/computer_arch.pdf)  
 [RISC&RISC-V for HPC](https://upcommons.upc.edu/bitstream/handle/2117/131610/140782.pdf)  
+[Intel VS. AMD VS. Kunpeng](https://www.amd.com/system/files/2018-03/AMD-Optimizes-EPYC-Memory-With-NUMA.pdf)  
+[AMD NUMA](https://developer.amd.com/wp-content/resources/56308-NUMA%20Topology%20for%20AMD%20EPYC%E2%84%A2%20Naples%20Family%20Processors.PDF)  
+[CCIX](https://www.flashmemorysummit.com/Proceedings2019/08-07-Wednesday/20190807_ENST-202B-1_Gummaluri.pdf)  
+[Kunpeng 920](https://en.wikichip.org/wiki/hisilicon/kunpeng/920-6426)  
+
 
 ## Graph Theory
 [Dominator Tree(1)](https://tanujkhattar.wordpress.com/2016/01/11/dominator-tree-of-a-directed-graph/)    
