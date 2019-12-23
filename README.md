@@ -54,6 +54,7 @@ I agree that data will be the most important assets of all enterprises in the fu
 [AMD NUMA](https://developer.amd.com/wp-content/resources/56308-NUMA%20Topology%20for%20AMD%20EPYC%E2%84%A2%20Naples%20Family%20Processors.PDF)  
 [CCIX](https://www.flashmemorysummit.com/Proceedings2019/08-07-Wednesday/20190807_ENST-202B-1_Gummaluri.pdf)  
 [Kunpeng 920](https://en.wikichip.org/wiki/hisilicon/kunpeng/920-6426)  
+[HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)  
 
 
 ## Graph Theory
