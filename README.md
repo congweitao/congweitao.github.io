@@ -84,3 +84,10 @@ a. [Data Center Construction for the Five hundred meter Aperture Spherical Teles
 b. Independently responsible for the Lustre Storage Solutions for HPC and AI
 
 (4) Now I'm joining Huawei as a software engineer, responsible for the reference architecture of software-defined storage, including Lustre, Ceph(Red Hat Ceph,SuSe Enterprise Storage), IBM COS, Scality and other kinds of object storage.
+
+| **summary:** | 基于GlusterFS分布式文件系统小文件场景优化最佳实践 |
+| **url:** | [*https://developer.huawei.com/consumer/cn/support/feedback*] |
+| **categories:** | Huawei |
+| **status:** | Published |
+| **feedback link:** | [*https:/developer.huawei.com/consumer/cn/support/feedback*]
+| **authors:** | Huawei |
