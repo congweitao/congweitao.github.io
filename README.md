@@ -55,7 +55,7 @@ I agree that data will be the most important assets of all enterprises in the fu
 [CCIX](https://www.flashmemorysummit.com/Proceedings2019/08-07-Wednesday/20190807_ENST-202B-1_Gummaluri.pdf)  
 [Kunpeng 920](https://en.wikichip.org/wiki/hisilicon/kunpeng/920-6426)  
 [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)  
-
+[OpenJDK8,11,12](https://github.com/AdoptOpenJDK)  
 
 ## Graph Theory
 [Dominator Tree(1)](https://tanujkhattar.wordpress.com/2016/01/11/dominator-tree-of-a-directed-graph/)    
