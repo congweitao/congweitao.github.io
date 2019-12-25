@@ -1,16 +1,12 @@
 Journey to the Computing and Storage.
 # About My Education  
 |Time |   Education 
-|-|-
-2008.9 - 2012.6 | Bachelor Degree of EE at East China Normal University, Shanghai, China
-
-2012.6 - 2015.9  Master Degree of EE at East China Normal University, Shanghai, China
-
-2014.4 - 2014.10 Special Research Student at Tohoku University, Sendai, Japan
-
-2015.3 - 2018.7  HPC Solution Engineer at Dawning Information Cor., ie., Sugon, Beijing
-
-2018.10 - now    Senior Storage Solution Architect at Huawei, Shenzhen
+|:-|:-|
+|2008.9 - 2012.6 | Bachelor Degree of EE at East China Normal University, Shanghai, China
+|2012.6 - 2015.9 | Master Degree of EE at East China Normal University, Shanghai, China
+|2014.4 - 2014.10| Special Research Student at Tohoku University, Sendai, Japan
+|2015.3 - 2018.7 | HPC Solution Engineer at Dawning Information Cor., ie., Sugon, Beijing
+|2018.10 - now   | Senior Storage Solution Architect at Huawei, Shenzhen
 
 # On Distributed Storage System
 Research on bcache accllerating Ceph：Usage and Tuning.
