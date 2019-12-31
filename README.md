@@ -54,6 +54,7 @@ I agree that data will be the most important assets of all enterprises in the fu
 [Kunpeng 920](https://en.wikichip.org/wiki/hisilicon/kunpeng/920-6426)  
 [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon)  
 [OpenJDK8,11,12](https://github.com/AdoptOpenJDK)  
+[RISC-V Instruction Set(Chinese version)](http://crva.io/documents/RISC-V-Reader-Chinese-v2p1.pdf)  
 
 ## Graph Theory
 [Dominator Tree(1)](https://tanujkhattar.wordpress.com/2016/01/11/dominator-tree-of-a-directed-graph/)    
