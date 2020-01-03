@@ -26,6 +26,7 @@ A brief introduction about network latency [Introduction to Ethernet Latency](ht
 [Research on Ceph Monitor Quorum and Configuration Guide](http://blog.sina.com.cn/s/blog_767e55a30102yyt4.html)  
 
 [SeaweedFS and Ceph performance tuning for smallfiles](http://storage.it168.com/a2018/1120/5104/000005104548.shtml)  
+[PartitionAlignment](https://www.beegfs.io/wiki/PartitionAlignment)
 
 # On Data Science
 I begin to study data science because I believe that the value behind data is much more important than the infrastructures.
