@@ -69,7 +69,7 @@ At school, I'm interested in quantum machanics and published several papers abou
 (3) Since graduation, I joined Sugon as an HPC solution engineer, responsible for HPC cluster soluton design, delivery and performance tuning. Through hard work, I quickly mastered knowledge of high-end technology of servers, Infiniband, and storage,etc.   
 a. [Data Center Construction for the Five hundred meter Aperture Spherical Telescope - Major Contributo](https://en.wikipedia.org/wiki/Five_hundred_meter_Aperture_Spherical_Telescope)  
 b. At Sugon, I almost completed 50+ projects independently, and quite good at performance tuning of HPC applications.   
-I also obtained a patent about the health check for large-scale cluster.
+I also obtained a patent about the health check for large-scale cluster, [**Patent NO : CN107766204A**].
 
 (4) Three years later I joined Huawei, responsible for the reference architecture of software-defined storage, including Lustre, Ceph(Red Hat Ceph,SuSe Enterprise Storage), IBM COS, Scality and other kinds of object storage.  
 
