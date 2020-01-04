@@ -59,14 +59,14 @@ I agree that data will be the most important assets of all enterprises in the fu
 I also have a [Weibo Blog](http://blog.sina.com.cn/u/1987990947)
 
 # About the past work
-At school, I'm interested in quantum machanics and published several papers about computational materials.
+At school, I'm interested in quantum machanics and published several papers about computational materials.  
 (1) [Enhanced Magnetic Anisotropies of Single Transition-Metal Adatoms on a Defective MoS2 Monolayer](https://www.nature.com/articles/srep09361)
 
 (2) I was honored to be selected as a special research student to do research at Tohoku University, Sendai, Japan.
 [Advanced Materials](https://www.researchgate.net/scientific-contributions/2083236860_Weitao_Cong)  
 [Angewandte Chemie](https://www.researchgate.net/scientific-contributions/2083236860_Weitao_Cong)  
 
-(3) Since graduation, I joined Sugon as an HPC solution engineer, responsible for HPC cluster soluton design, delivery and performance tuning. Through hard work, I quickly mastered knowledge of high-end technology of servers, Infiniband, and storage,etc. 
+(3) Since graduation, I joined Sugon as an HPC solution engineer, responsible for HPC cluster soluton design, delivery and performance tuning. Through hard work, I quickly mastered knowledge of high-end technology of servers, Infiniband, and storage,etc.   
 a. [Data Center Construction for the Five hundred meter Aperture Spherical Telescope - Major Contributo](https://en.wikipedia.org/wiki/Five_hundred_meter_Aperture_Spherical_Telescope)  
 b. At Sugon, I almost completed 50+ projects independently, and quite good at performance tuning of HPC applications.   
 I also obtained a patent about the health check for large-scale cluster.
