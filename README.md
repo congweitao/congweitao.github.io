@@ -60,8 +60,8 @@ I also have a [Weibo Blog](http://blog.sina.com.cn/u/1987990947)
 
 # About the past work
 At school, I'm interested in quantum machanics and published several papers about computational materials.  
-(1) [Enhanced Magnetic Anisotropies of Single Transition-Metal Adatoms on a Defective MoS2 Monolayer](https://www.nature.com/articles/srep09361)
-
+(1) [Enhanced Magnetic Anisotropies of Single Transition-Metal Adatoms on a Defective MoS2 Monolayer](https://www.nature.com/articles/srep09361)  
+[Research and Application of Dopants and Vacancy in Low Dimensional Materials](http://cdmd.cnki.com.cn/Article/CDMD-10269-1015345586.htm)  
 (2) I was honored to be selected as a special research student to do research at Tohoku University, Sendai, Japan.
 [Advanced Materials](https://www.researchgate.net/scientific-contributions/2083236860_Weitao_Cong)  
 [Angewandte Chemie](https://www.researchgate.net/scientific-contributions/2083236860_Weitao_Cong)  
