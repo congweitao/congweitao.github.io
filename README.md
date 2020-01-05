@@ -67,7 +67,7 @@ At school, I'm interested in quantum machanics and published several papers abou
 [Angewandte Chemie](https://www.researchgate.net/scientific-contributions/2083236860_Weitao_Cong)  
 
 (3) Since graduation, I joined Sugon as an HPC solution engineer, responsible for HPC cluster soluton design, delivery and performance tuning. Through hard work, I quickly mastered knowledge of high-end technology of servers, Infiniband, and storage,etc., as well as Lustre filesystem, PBS, Slurm and HPC related softwares.   
-a. [Major contribution to the data center building for the Five hundred meter Aperture Spherical Telescope](https://en.wikipedia.org/wiki/Five_hundred_meter_Aperture_Spherical_Telescope), consists of 30TFlops computing and 3PB storage.
+a. [Major contribution to the data center building for the Five hundred meter Aperture Spherical Telescope](https://en.wikipedia.org/wiki/Five_hundred_meter_Aperture_Spherical_Telescope), consists of 30TFlops of compute and 3PB of storage.
 b. At Sugon, I almost completed 50+ projects independently, and quite good at performance tuning of HPC applications.  
    I also obtained a patent about the health check for large-scale cluster, [**Patent NO : CN107766204A**].
 
