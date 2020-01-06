@@ -32,7 +32,9 @@ I agree that data will be the most important assets of all enterprises in the fu
 [Kubernetes Scheduler](https://medium.com/@dominik.tornow/the-kubernetes-scheduler-cd429abac02f)  
 [Data validation for machine learning](https://www.sysml.cc/doc/2019/167.pdf)  
 [A distributed data caching system to accelerate deep learning](https://arxiv.org/pdf/1812.00669.pdf)  
-[Gluster small file performance](https://github.com/gluster/glusterfs-specs/blob/master/done/GlusterFS%203.7/Small%20File%20Performance.md)
+[Gluster small file performance](https://github.com/gluster/glusterfs-specs/blob/master/done/GlusterFS%203.7/Small%20File%20Performance.md)  
+[Content-based image retrieval](https://en.wikipedia.org/wiki/Content-based_image_retrieval#Technical_progress)  
+
 ### High Performance Computing for Material Discovery
 [An introduction to HPC on AWS](https://d0.awsstatic.com/whitepapers/Intro_to_HPC_on_AWS.pdf)  
 [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)    
