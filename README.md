@@ -22,6 +22,9 @@ A brief introduction about network latency [Introduction to Ethernet Latency](ht
 [SeaweedFS and Ceph performance tuning for smallfiles](http://storage.it168.com/a2018/1120/5104/000005104548.shtml)  
 [PartitionAlignment](https://www.beegfs.io/wiki/PartitionAlignment)
 
+### On OpenStack
+[Backup Solution-Raksha](https://wiki.openstack.org/wiki/Raksha#VM_Backup)  
+
 ### On Data Science
 I begin to study data science because I believe that the value behind data is much more important than the infrastructures.
 I agree that data will be the most important assets of all enterprises in the future, and knowing data will be the critical task in moving forward of Industry 4.0.
