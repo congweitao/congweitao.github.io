@@ -38,6 +38,7 @@ I agree that data will be the most important assets of all enterprises in the fu
 ### High Performance Computing for Material Discovery
 [An introduction to HPC on AWS](https://d0.awsstatic.com/whitepapers/Intro_to_HPC_on_AWS.pdf)  
 [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)    
+[Event Based Concurrency Programing](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-events.pdf)  
 ### Computer Architectures
 [Computer Architecture: A Quantitative Approach](https://www.cryptodionysus.com/pdfs/computer_arch.pdf)  
 [RISC&RISC-V for HPC](https://upcommons.upc.edu/bitstream/handle/2117/131610/140782.pdf)  
