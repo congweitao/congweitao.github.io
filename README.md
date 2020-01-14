@@ -57,9 +57,11 @@ I agree that data will be the most important assets of all enterprises in the fu
 [Hyperledger Volume I](https://www.hyperledger.org/wp-content/uploads/2017/08/Hyperledger_Arch_WG_Paper_1_Consensus.pdf)  
 [[Hyperledger Volume II]](https://www.hyperledger.org/wp-content/uploads/2018/04/Hyperledger_Arch_WG_Paper_2_SmartContracts.pdf)  
 
-### Graph Theory
-[Dominator Tree(1)](https://tanujkhattar.wordpress.com/2016/01/11/dominator-tree-of-a-directed-graph/)    
-[Dominator Tree(2)](https://www.cs.princeton.edu/courses/archive/fall03/cs528/handouts/a%20fast%20algorithm%20for%20finding.pdf)    
+### On Performance Tuning
+[Graph Theory : Dominator Tree(1)](https://tanujkhattar.wordpress.com/2016/01/11/dominator-tree-of-a-directed-graph/)    
+[Graph Theory :Dominator Tree(2)](https://www.cs.princeton.edu/courses/archive/fall03/cs528/handouts/a%20fast%20algorithm%20for%20finding.pdf)    
+[Top 10 Java Performance Problems](https://www.rockvalleycollege.edu/webadmin/upload/Top-10-Java-Performance-Problems.pdf)  
+[Performance Scaling of Cassandra on High-Thread Count Servers](https://dl.acm.org/doi/pdf/10.1145/3297663.3309668?download=true)  
 
 # Contact
 [congweitao@hotmail.com](congweitao@hotmail.com)
