@@ -20,7 +20,7 @@ Reference to the [bcache steup tuning](http://www.tech-g.com/2017/08/10/bcache-h
 A brief introduction about network latency [Introduction to Ethernet Latency](https://www.marvell.com/documents/rjx203ukari4r93gntem/)  
 [Research on Ceph Monitor Quorum and Configuration Guide](http://blog.sina.com.cn/s/blog_767e55a30102yyt4.html)    
 [SeaweedFS and Ceph performance tuning for smallfiles](http://storage.it168.com/a2018/1120/5104/000005104548.shtml)  
-[PartitionAlignment](https://www.beegfs.io/wiki/PartitionAlignment)
+[Partition Alignment-BeeGFS](https://www.beegfs.io/wiki/PartitionAlignment)  
 [I/O Characterization and Performance Evaluation of BeeGFS for Deep Learning](https://www.osti.gov/servlets/purl/1559405)  
 [BeeGFS with NetApp E-series](https://www.netapp.com/us/media/tr-4755.pdf)  
 
