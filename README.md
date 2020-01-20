@@ -45,6 +45,8 @@ I agree that data will be the most important assets of all enterprises in the fu
 [Event Based Concurrency Programing](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-events.pdf)  
 [Threads VS. Event](https://berb.github.io/diploma-thesis/original/043_threadsevents.html)  
 [ReactiveX](http://reactivex.io/)  
+[BeeGFS with NetApp E-series](https://www.netapp.com/us/media/tr-4755.pdf)  
+
 ### Computer Architectures
 [Computer Architecture: A Quantitative Approach](https://www.cryptodionysus.com/pdfs/computer_arch.pdf)  
 [RISC&RISC-V for HPC](https://upcommons.upc.edu/bitstream/handle/2117/131610/140782.pdf)  
