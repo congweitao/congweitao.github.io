@@ -23,6 +23,7 @@ A brief introduction about network latency [Introduction to Ethernet Latency](ht
 [Partition Alignment-BeeGFS](https://www.beegfs.io/wiki/PartitionAlignment)  
 [I/O Characterization and Performance Evaluation of BeeGFS for Deep Learning](https://www.osti.gov/servlets/purl/1559405)  
 [BeeGFS with NetApp E-series](https://www.netapp.com/us/media/tr-4755.pdf)  
+[Ceph All NVMe Tuning](https://www.flashmemorysummit.com/English/Collaterals/Proceedings/2018/20180808_SOFT-202-1_Liu.pdf)  
 
 
 ### On OpenStack
