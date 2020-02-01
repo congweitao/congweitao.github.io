@@ -73,7 +73,7 @@ I agree that data will be the most important assets of all enterprises in the fu
 
 ### On Gyrosope
 [MOTION OF A GYROSCOPE ACCORDING TO EINSTEIN'S THEORY OF GRA VITATION](https://einstein.stanford.edu/content/sci_papers/papers/Schiff_PNAS-1960.pdf)  
-[Gyroscope Physics](https://www.real-world-physics-problems.com/gyroscope-physics.html 
+[Gyroscope Physics](https://www.real-world-physics-problems.com/gyroscope-physics.html)  
 
 
 # Contact
