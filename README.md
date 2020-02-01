@@ -71,6 +71,9 @@ I agree that data will be the most important assets of all enterprises in the fu
 [Top 10 Java Performance Problems](https://www.rockvalleycollege.edu/webadmin/upload/Top-10-Java-Performance-Problems.pdf)  
 [Performance Scaling of Cassandra on High-Thread Count Servers](https://dl.acm.org/doi/pdf/10.1145/3297663.3309668?download=true)  
 
+### On Gyrosope
+[MOTION OF A GYROSCOPE ACCORDING TO EINSTEIN'S THEORY OF GRA VITATION]https://einstein.stanford.edu/content/sci_papers/papers/Schiff_PNAS-1960.pdf  
+
 # Contact
 [congweitao@hotmail.com](congweitao@hotmail.com)
 
