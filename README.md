@@ -28,6 +28,7 @@ A brief introduction about network latency [Introduction to Ethernet Latency](ht
 
 ### On OpenStack
 [Backup Solution-Raksha](https://wiki.openstack.org/wiki/Raksha#VM_Backup)  
+[VMs Creation Flow](https://www.linuxtechi.com/step-by-step-instance-creation-flow-in-openstack/)  
 
 ### On Data Science
 I begin to study data science because I believe that the value behind data is much more important than the infrastructures.
