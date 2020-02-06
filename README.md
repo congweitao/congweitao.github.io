@@ -25,6 +25,7 @@ A brief introduction about network latency [Introduction to Ethernet Latency](ht
 [BeeGFS with NetApp E-series](https://www.netapp.com/us/media/tr-4755.pdf)  
 [Ceph All NVMe Tuning](https://www.flashmemorysummit.com/English/Collaterals/Proceedings/2018/20180808_SOFT-202-1_Liu.pdf)  
 [Performance of Small Block Size Accesses in Lustre File System](https://www.researchgate.net/publication/323607172_Performance_Of_Small_Block_Size_Accesses_In_Lustre_File_System)  
+[Lustre performance optimization](http://lustrefs.cn/wp-content/uploads/2018/10/8_Lustre_2.12_and_Beyond.pdf)  
 
 ### On OpenStack
 [Backup Solution-Raksha](https://wiki.openstack.org/wiki/Raksha#VM_Backup)  
