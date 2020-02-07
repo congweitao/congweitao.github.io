@@ -47,7 +47,7 @@ I agree that data will be the most important assets of all enterprises in the fu
 [Content-based image retrieval](https://en.wikipedia.org/wiki/Content-based_image_retrieval#Technical_progress)  
 [Tesseract Training](https://github.com/tesseract-ocr/tesseract/wiki/TrainingTesseract-4.00)  
 [List on Deep Learning Models](https://www.researchgate.net/publication/335166399_List_of_Deep_Learning_Models?_esc=publicationCoverPdf&el=1_x_3&enrichId=rgreq-e8ec27884abe60ca09ec93801a679e37-XXX&enrichSource=Y292ZXJQYWdlOzMzNTE2NjM5OTtBUzo3OTQzMTc0Mjk5MzYxMzhAMTU2NjM5MTQ0MTg4NQ%3D%3D)  
-[Torwards Data Science](https://towardsdatascience.com/)  
+[Website:https://torwardsdatascience.com](https://towardsdatascience.com/)  
 
 
 ### High Performance Computing for Material Discovery
