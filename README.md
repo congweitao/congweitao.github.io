@@ -69,7 +69,8 @@ I agree that data will be the most important assets of all enterprises in the fu
 [OpenJDK8,11,12](https://github.com/AdoptOpenJDK)  
 [RISC-V Instruction Set(Chinese version)](http://crva.io/documents/RISC-V-Reader-Chinese-v2p1.pdf)  
 [Hyperledger Volume I](https://www.hyperledger.org/wp-content/uploads/2017/08/Hyperledger_Arch_WG_Paper_1_Consensus.pdf)  
-[[Hyperledger Volume II]](https://www.hyperledger.org/wp-content/uploads/2018/04/Hyperledger_Arch_WG_Paper_2_SmartContracts.pdf)  
+[[Hyperledger Volume II]](https://www.hyperledger.org/wp-content/uploads/2018/04/Hyperledger_Arch_WG_Paper_2_SmartContracts.pdf)
+[Improving Parallel System Performance with aNUMA-aware Load Balancer](https://www.researchgate.net/publication/216713446_Improving_Parallel_System_Performance_with_a_NUMA-aware_Load_Balancer)  
 
 ### On Performance Tuning
 [Graph Theory : Dominator Tree(1)](https://tanujkhattar.wordpress.com/2016/01/11/dominator-tree-of-a-directed-graph/)    
