@@ -74,6 +74,7 @@ I agree that data will be the most important assets of all enterprises in the fu
 [NUMA Performance Tuing](https://www.cnblogs.com/MYSQLZOUQI/p/5564296.html)  
 [NUMA Performance Tuning](https://queue.acm.org/detail.cfm?id=2513149)  
 [NUMA Performance Tuning](https://www.linux-kvm.org/images/7/75/01x07b-NumaAutobalancing.pdf)  
+[New Thread Migration Strategies for NUMA Systems](https://arxiv.org/pdf/1809.10937.pdf)  
 
 
 ### On Performance Tuning
