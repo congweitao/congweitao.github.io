@@ -71,6 +71,7 @@ I agree that data will be the most important assets of all enterprises in the fu
 [Hyperledger Volume I](https://www.hyperledger.org/wp-content/uploads/2017/08/Hyperledger_Arch_WG_Paper_1_Consensus.pdf)  
 [Hyperledger Volume II](https://www.hyperledger.org/wp-content/uploads/2018/04/Hyperledger_Arch_WG_Paper_2_SmartContracts.pdf)  
 [Improving Parallel System Performance with aNUMA-aware Load Balancer](https://www.researchgate.net/publication/216713446_Improving_Parallel_System_Performance_with_a_NUMA-aware_Load_Balancer)  
+[NUMA Performance Tuing](https://www.cnblogs.com/MYSQLZOUQI/p/5564296.html;https://queue.acm.org/detail.cfm?id=2513149;https://www.linux-kvm.org/images/7/75/01x07b-NumaAutobalancing.pdf)  
 
 ### On Performance Tuning
 [Graph Theory : Dominator Tree(1)](https://tanujkhattar.wordpress.com/2016/01/11/dominator-tree-of-a-directed-graph/)    
