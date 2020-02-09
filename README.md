@@ -32,6 +32,7 @@ A brief introduction about network latency [Introduction to Ethernet Latency](ht
 [VMs Creation Flow](https://www.linuxtechi.com/step-by-step-instance-creation-flow-in-openstack/)  
 [Nested Virtulizations - Only Intel processors with VT-x and EPT technology support nested virtualization. AMD processors do not currently support nested virtualization.](https://www.nakivo.com/blog/hyper-v-nested-virtualization-explained/)  
 [ARM Virtualization: Performance and Architectural Implications](https://www.cs.columbia.edu/~nieh/pubs/isca2016_armvirt.pdf)  
+[Tuning vCloud NFV for Data Plane Intensive Workloads](https://docs.vmware.com/en/VMware-vCloud-NFV-OpenStack-Edition/3.0/vmwa-vcloud-nfv30-performance-tunning.pdf)  
 
 ### On Data Science
 I begin to study data science because I believe that the value behind data is much more important than the infrastructures.
