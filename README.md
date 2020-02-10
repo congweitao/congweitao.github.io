@@ -33,6 +33,8 @@ A brief introduction about network latency [Introduction to Ethernet Latency](ht
 [Nested Virtulizations - Only Intel processors with VT-x and EPT technology support nested virtualization. AMD processors do not currently support nested virtualization.](https://www.nakivo.com/blog/hyper-v-nested-virtualization-explained/)  
 [ARM Virtualization: Performance and Architectural Implications](https://www.cs.columbia.edu/~nieh/pubs/isca2016_armvirt.pdf)  
 [Tuning vCloud NFV for Data Plane Intensive Workloads](https://docs.vmware.com/en/VMware-vCloud-NFV-OpenStack-Edition/3.0/vmwa-vcloud-nfv30-performance-tunning.pdf)  
+[AMD	EPYC™	Processors	Showcase High	Performance	for	Network	Function	Virtualization	(NFV)](https://www.amd.com/system/files/documents/network-function-virtualization-gets-high-performance-amd-epyc-processors.pdf)  
+[Towards Optimal Adaptation of NFV Packet Processing to Modern CPU Memory Architectures](https://mediatum.ub.tum.de/doc/1420187/document.pdf)  
 
 ### On Data Science
 I begin to study data science because I believe that the value behind data is much more important than the infrastructures.
