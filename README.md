@@ -80,6 +80,7 @@ I agree that data will be the most important assets of all enterprises in the fu
 [New Thread Migration Strategies for NUMA Systems](https://arxiv.org/pdf/1809.10937.pdf)  
 [Accelerated Data Plane Performance Using Enhanced Data Path in NUMA Architecture](https://blogs.vmware.com/networkvirtualization/2018/10/accelerated-data-plane-performance-using-enhanced-data-path-in-numa-architecture.html/)  
 [Thread and memory migration : asynmetric matter](https://www.usenix.org/system/files/conference/atc15/atc15-paper-lepers.pdf)  
+[Armv8-A Virtualization](https://developer.arm.com/architectures/learn-the-architecture/armv8-a-virtualization/single-page)  
 
 
 ### On Performance Tuning
