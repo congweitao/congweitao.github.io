@@ -1,2 +1,3 @@
 \# AI Basic Architecture  
-![Cluster Architecture](http://www.talkwithtrend.com/Article/242111)
+![Cluster Architecture](images/ibm-ra-001.png)  
+![Cluster Architecture For Finance](images/ibm-ra-002.jpg)  
