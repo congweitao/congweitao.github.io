@@ -28,4 +28,5 @@ Since graduation, I joined Sugon as an HPC solution engineer, responsible for HP
    I also obtained a patent about the health check for large-scale cluster, [**Patent NO : CN107766204A**].
 
 Three years later I joined Huawei, responsible for the reference architecture of software-defined storage, including Lustre, Ceph(Red Hat Ceph,SuSe Enterprise Storage), IBM COS, Scality and other kinds of object storage.  
-
+> 2018.10 - 2019.6  Responsible for the Ceph based storage solutions design and performance tuning using Huawei FusionServer(X86) Servers.  
+> 2019.7 - now  Responsible for the software-defined storage ecosystem building and expansion for the Huawei TaiShan(ARM64) Servers, as well as the solutions for the clouding computing， virtualization and hyperconverged infrastructures.  
