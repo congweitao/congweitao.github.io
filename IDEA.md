@@ -7,3 +7,4 @@
 [OpenSource - best-data-labeling-tools-2019](https://www.trantorinc.com/blog/best-data-labeling-tools-2019/)  
 [Commercial - Top 10 Text Labeling Services for Machine Learning](https://lionbridge.ai/articles/top-10-text-labeling-services-for-machine-learning/)  
 [DarkLabel](https://darkpgmr.tistory.com/16)  
+[汇总](https://github.com/heartexlabs/awesome-data-labeling)  
