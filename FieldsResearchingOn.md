@@ -44,6 +44,8 @@ I agree that data will be the most important assets of all enterprises in the fu
 [List on Deep Learning Models](https://www.researchgate.net/publication/335166399_List_of_Deep_Learning_Models?_esc=publicationCoverPdf&el=1_x_3&enrichId=rgreq-e8ec27884abe60ca09ec93801a679e37-XXX&enrichSource=Y292ZXJQYWdlOzMzNTE2NjM5OTtBUzo3OTQzMTc0Mjk5MzYxMzhAMTU2NjM5MTQ0MTg4NQ%3D%3D)  
 [Website:https://torwardsdatascience.com](https://towardsdatascience.com/)  
 [Weigted Sampling for Combined Model Selection and Hyperparameter Tuning](https://arxiv.org/pdf/1909.07140.pdf)  
+[What is Data Migration?](https://www.netapp.com/us/info/what-is-data-migration.aspx)  
+
 
 
 # Contact
