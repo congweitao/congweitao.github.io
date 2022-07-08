@@ -28,5 +28,5 @@ After graduation, I joined Sugon as an HPC solution engineer, responsible for HP
    I also obtained a patent about the health check for large-scale cluster, [**Patent NO : CN107766204A**].
 
 Since 2018.10 I joined Huawei, responsible for the reference architecture (RA) of software-defined storage, including Lustre, Ceph(Red Hat Ceph,SuSe Enterprise Storage), IBM COS, Scality and other kinds of object storage, as well as the marketing development of the processors of Huawei Kunpeng and Ascend.  
-> 2018.10 - 2019.3  Responsible for the Openstack based virtualization, and the Ceph based storage solution design and performance tuning on Huawei server products.
+> 2018.10 - 2019.3  Responsible for the Openstack based virtualization, and the Ceph based storage solution design and performance tuning on Huawei server products.  
 > 2020.3 - 2021.12  Responsible for the marketing development of Huawei Kunpeng and Ascend processors.  
