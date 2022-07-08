@@ -14,7 +14,7 @@ Journey to the Computing and Storage.
 I also have a [Weibo Blog](http://blog.sina.com.cn/u/1987990947)
 
 # About the past work
-At school, I'm interested in quantum machanics and published several papers about computational materials.  
+At school, I studied electronics and quantum machanics, and published several papers about computational materials.  
 > (1) [Enhanced Magnetic Anisotropies of Single Transition-Metal Adatoms on a Defective MoS2 Monolayer](https://www.nature.com/articles/srep09361)  
 > **Master's Thesis:** [Research and Application of Dopants and Vacancy in Low Dimensional Materials](http://cdmd.cnki.com.cn/Article/CDMD-10269-1015345586.htm)  
  
@@ -22,11 +22,11 @@ At school, I'm interested in quantum machanics and published several papers abou
 [Advanced Materials](https://www.researchgate.net/scientific-contributions/2083236860_Weitao_Cong)  
 [Angewandte Chemie](https://www.researchgate.net/scientific-contributions/2083236860_Weitao_Cong)  
 
-Since graduation, I joined Sugon as an HPC solution engineer, responsible for HPC cluster soluton design, delivery and performance tuning. Through hard work, I quickly mastered knowledge of high-end technology of servers, Infiniband, and storage,etc., as well as Lustre filesystem, PBS, Slurm and HPC related softwares.   
+After graduation, I joined Sugon as an HPC solution engineer, responsible for HPC cluster soluton design, delivery and performance tuning. Through three years' work, I quickly mastered knowledge of high-end technology of servers, Infiniband, and storage,etc., as well as Lustre filesystem, PBS, Slurm and HPC related technics.   
 > **(A).** [Major contribution to the data center building for the Five hundred meter Aperture Spherical Telescope](https://en.wikipedia.org/wiki/Five_hundred_meter_Aperture_Spherical_Telescope), consists of 30TFlops of compute and 3PB of storage.  
 > **(B).** At Sugon, I almost completed 50+ projects independently, and quite good at performance tuning of HPC applications.  
    I also obtained a patent about the health check for large-scale cluster, [**Patent NO : CN107766204A**].
 
-Three years later I joined Huawei, responsible for the reference architecture of software-defined storage, including Lustre, Ceph(Red Hat Ceph,SuSe Enterprise Storage), IBM COS, Scality and other kinds of object storage.  
-> 2018.10 - 2019.6  Responsible for the Ceph based storage solutions design and performance tuning using Huawei FusionServer(X86) Servers.  
-> 2019.7 - now  Responsible for the software-defined storage ecosystem building and expansion for the Huawei TaiShan(ARM64) Servers, as well as the solutions for the clouding computing， virtualization and hyperconverged infrastructures.  
+Since 2018.10 I joined Huawei, responsible for the reference architecture (RA) of software-defined storage, including Lustre, Ceph(Red Hat Ceph,SuSe Enterprise Storage), IBM COS, Scality and other kinds of object storage, as well as the marketing development of the processors of Huawei Kunpeng and Ascend.  
+> 2018.10 - 2019.3  Responsible for the Openstack based virtualization, and the Ceph based storage solution design and performance tuning on Huawei server products.
+> 2020.3 - 2021.12  Responsible for the marketing development of Huawei Kunpeng and Ascend processors.  
