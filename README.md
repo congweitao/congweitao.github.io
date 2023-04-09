@@ -7,7 +7,7 @@ Journey to the Computing and Storage.
 |2014.4 - 2014.10| Special Research Student at Tohoku University, Sendai, Japan
 |2015.3 - 2018.7 | HPC Solution Engineer at Sugon, Beijing
 |2018.10 - 2021.12| Senior Storage Solution Architect at Huawei, Shenzhen
-|2022.1 --  | Self-employed, OpenGL, Rendering Engine, 3D co-design software
+|2022.1 --  | Self-employed, OpenGL, Rendering Engine, 3D co-design software, refering to Wechat ID: Pop3D
 # Contact
 [congweitao@hotmail.com](congweitao@hotmail.com)
 
